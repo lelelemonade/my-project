@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
+    <option name="y" value="26" />
+    <option name="width" value="960" />
+    <option name="height" value="980" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.A_B_problem">
+    <configuration name="A_B_problem" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="A_B_problem" TARGET_NAME="A_B_problem" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="A_B_problem" RUN_TARGET_NAME="A_B_problem" />
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="A_B_problem" RUN_TARGET_NAME="A_B_problem" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.A_B_problem" />
+    </list>
+  </component>
+</project>
